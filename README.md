@@ -1,2 +1,2 @@
-#Computer Engineer 👩🏻‍💻
-##Web Developer ~ HTML\CSS\Tailwind\Java Script ✨🌱🫧
+# Computer Engineer 👩🏻‍💻
+## Web Developer ~ HTML\CSS\Tailwind\Java Script ✨🌱🫧
